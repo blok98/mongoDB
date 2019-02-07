@@ -1,0 +1,9 @@
+Wat is de naam en prijs van het eerste product in de database?
+  'name': Andrélon Shampoo 2 In 1 300 ml
+  'selling_price': 229
+  
+Geef de naam van het eerste product waarvan de naam begint met een 'R'?
+  'name': Rexona Turbo Deodorant Spray 150 ml
+  
+Wat is de gemiddelde prijs van de producten in de database?
+  281.0
