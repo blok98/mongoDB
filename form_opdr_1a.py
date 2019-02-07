@@ -10,11 +10,10 @@ data               = collection_student.find()
 customerNumber      = 1
 customer_info    = data[0]
 
-print(customer_info)
+
 name                = customer_info['name']
 selling_price       = customer_info['price']['selling_price']
 
-print('opdr1:')
 print('name: ',name)
 print('selling_price: ', selling_price)
 
@@ -34,8 +33,3 @@ print('\n')
 print('eerste naam met R: ',naamMetR)
 print('\n')
 print('gemiddelde prijs van producten: ',avPrice)
-
-#json_string         = json.dumps(show_information)
-#datastore           = json.loads(json_string)
-#print(datastore)
-
